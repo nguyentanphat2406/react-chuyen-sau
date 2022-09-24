@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "iphone 12",
+            "price": 5000
+        },
+        {
+            "id": 2,
+            "name": "ipad pro M1",
+            "price": 3000
+        },
+        {
+            "id": 3,
+            "name": "maBook pro M1",
+            "price": 1000
+        },
+        {
+            "id": 4,
+            "name": "ABC",
+            "price": 5000
+        },
+        {
+            "id": 5,
+            "name": "FEG",
+            "price": 1000
+        }
+    ]
+}
