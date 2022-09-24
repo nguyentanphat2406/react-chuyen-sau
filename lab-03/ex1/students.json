@@ -1,0 +1,76 @@
+{
+    "students": [
+        {
+            "sid": 1,
+            "name": "Peter",
+            "scores": [
+                {
+                    "name": "Math",
+                    "grade": 9
+                },
+                {
+                    "name": "Physics",
+                    "grade": 10
+                },
+                {
+                    "name": "Chemistry",
+                    "grade": 10
+                }
+            ]
+        },
+        {
+            "sid": 2,
+            "name": "Mary",
+            "scores": [
+                {
+                    "name": "Math",
+                    "grade": 8
+                },
+                {
+                    "name": "Physics",
+                    "grade": 5
+                },
+                {
+                    "name": "Chemistry",
+                    "grade": 7
+                }
+            ]
+        },
+        {
+            "sid": 3,
+            "name": "Phat",
+            "scores": [
+                {
+                    "name": "Math",
+                    "grade": 10
+                },
+                {
+                    "name": "Physics",
+                    "grade": 10
+                },
+                {
+                    "name": "Chemistry",
+                    "grade": 9
+                }
+            ]
+        },
+        {
+            "sid": 4,
+            "name": "Mary",
+            "scores": [
+                {
+                    "name": "Math",
+                    "grade": 5
+                },
+                {
+                    "name": "Physics",
+                    "grade": 7
+                },
+                {
+                    "name": "Chemistry",
+                    "grade": 8
+                }
+            ]
+        }
+    ]
+}

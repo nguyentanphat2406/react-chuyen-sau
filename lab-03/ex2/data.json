@@ -1,0 +1,39 @@
+{
+    "categories": [
+        {
+            "foods": [
+                {
+                    "name": "pork",
+                    "price": 100,
+                    "unit": "kilogam"
+                },
+                {
+                    "name": "beef",
+                    "price": 200,
+                    "unit": "kilogam"
+                },
+                {
+                    "name": "chicken",
+                    "price": 50,
+                    "unit": "once"
+                }
+            ]
+        },
+        {
+            "electric": [
+                {
+                    "name": "Tivi",
+                    "price": 1000
+                },
+                {
+                    "name": "refrigerator",
+                    "price": 1500
+                },
+                {
+                    "name": "air-conditioner",
+                    "price": 700
+                }
+            ]
+        }
+    ]
+}
